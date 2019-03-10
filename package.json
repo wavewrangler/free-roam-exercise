@@ -1,0 +1,25 @@
+{
+  "name": "free-roam-exercise",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Given an image of layout and told good luck.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wavewrangler/free-roam-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wavewrangler/free-roam-exercise/issues"
+  },
+  "homepage": "https://github.com/wavewrangler/free-roam-exercise#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
